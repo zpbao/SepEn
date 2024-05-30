@@ -1,15 +1,18 @@
+# Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models
 
-# Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models  
-
-This is the repository for [*Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models*](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/SIGGRAPHCONFERENCEPAPERS24/133/d60517f0-feed-11ee-8182-16bb50361d1f/OUT/siggraphconferencepapers24-133.html), published at SIGGRAPH 2024.  
-=======
-This is the repository for [*Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models*]([https://arxiv.org/abs/2203.10159]https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/SIGGRAPHCONFERENCEPAPERS24/133/d60517f0-feed-11ee-8182-16bb50361d1f/OUT/siggraphconferencepapers24-133.html), published at SIGGRAPH 2024.  
->>>>>>> bf6db2c17b82d71f41cd09ad79f0346806dd50da
+This is the repository for [*Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models*](https://arxiv.org/abs/2312.06712), published at SIGGRAPH 2024.  
 
 
 [[Project Page](https://zpbao.github.io/projects/SepEn/)]
-[[Paper](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/SIGGRAPHCONFERENCEPAPERS24/133/d60517f0-feed-11ee-8182-16bb50361d1f/OUT/siggraphconferencepapers24-133.html)]
+[[Paper](https://arxiv.org/abs/2312.06712)]
 
+## Citation
 
-
-
+```
+@inproceedings{bao2024sepen,
+    Author = {Bao, Zhipeng and Li, Yijun and Singh, Krishna Kumar and Wang, Yu-Xiong and Hebert, Martial},
+    Title = {Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models},
+    Booktitle = {SIGGRAPH},
+    Year = {2024},
+}
+```
