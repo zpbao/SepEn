@@ -6,7 +6,7 @@ This is the repository for [*Separate-and-Enhance: Compositional Finetuning for 
 [[Project Page](https://zpbao.github.io/projects/SepEn/)]
 [[Paper](https://arxiv.org/abs/2312.06712)]
 
-Please redirect to the official Adobe Repo (coming soon) for the code release. 
+Please redirect to the official [Adobe Repo](https://github.com/adobe/SeperateAndEnhance) for the code release. 
 
 ## Citation
 
